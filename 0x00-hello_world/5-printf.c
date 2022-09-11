@@ -1,3 +1,10 @@
+/**
+ * main - print the string in the printf function
+ *
+ * Description: using the main function
+ * this program
+ * Return: 0
+ */
 #include <stdio.h>
 
 int main(void)
